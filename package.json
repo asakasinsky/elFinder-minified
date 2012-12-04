@@ -1,0 +1,16 @@
+{
+    "name": "elFinder_build",
+    "description": "elFinder build script",
+    "version": "0.1.0",
+    "main": "./grunt.js",
+    "dependencies": {
+        "grunt-css": "*",
+        "grunt-recess": "*",
+        "grunt-imgo": "*",
+        "grunt-image-embed": "*",
+        "grunt-clean": "*",
+        "recess": "*",
+        "underscore": "*",
+        "grunt-exec": "*"
+    }
+}

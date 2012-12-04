@@ -1,0 +1,29 @@
+{
+  "name": "elFinder_build",
+  "title": "elFinder_build",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "jquery-ui": "*"
+  },
+  "keywords": []
+}
